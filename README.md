@@ -1,4 +1,4 @@
-# This is my simple project for my friend
+# This is my simple project 
 
 Requirements:
 - Python 3.11.9
